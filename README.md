@@ -2,7 +2,8 @@
 Online shoe store with shopping cart and user authentication system
 
 ## Screenshots
-[Screenshots of homepage and shopping cart]
+<img width="1915" height="905" alt="צילום מסך 2025-08-31 123739" src="https://github.com/user-attachments/assets/3689f4ca-1a1f-4759-b319-f921262e35fc" />
+
 
 ## Features
 - Family shoe catalog
