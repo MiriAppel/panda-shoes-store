@@ -8,7 +8,7 @@ Online shoe store with shopping cart and user authentication system
 - Family shoe catalog
 - User registration and login system
 - Dynamic shopping cart
-- Search and filter by categories
+- Product search and filtering
 - Responsive design
 
 ## Technologies
