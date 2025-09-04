@@ -8,10 +8,10 @@ Online shoe store with shopping cart and user authentication system
 
 ## Screenshots
 ### Product Catalog
-![Product Catalog](screenshots/catalog.png)
+צילום מסך 2025-08-31 132744
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
+צילום מסך 2025-08-31 133150
 
 ## Features
 - Family shoe catalog
@@ -29,7 +29,7 @@ Online shoe store with shopping cart and user authentication system
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MiriAppel/panda-shoes-store.git
+git clone https://github.com/your-username/panda-shoes-store.git
 ```
 
 2. Navigate to project directory:
