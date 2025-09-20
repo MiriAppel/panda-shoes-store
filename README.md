@@ -2,7 +2,7 @@
 
 Online shoe store with shopping cart and user authentication system
 
-**Live Demo:** [View Website](https://miriappel.github.io/ecommerce-shoe-store) *(Right-click → Open in new tab)*
+**Live Demo:** [View Website](https://miriappel.github.io/panda-shoes-store) *(Right-click → Open in new tab)*
 
 *Note: Individual product detail pages have limitations on GitHub Pages due to URL parameters. All other features work normally on the live site.*
 
