@@ -1,4 +1,5 @@
 # Panda Shoes Store
+
 Online shoe store with shopping cart and user authentication system
 
 **Live Demo:** [View Website](https://miriappel.github.io/ecommerce-shoe-store) *(Right-click → Open in new tab)*
@@ -27,12 +28,12 @@ Online shoe store with shopping cart and user authentication system
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/miriappel/ecommerce-shoe-store.git
+git clone https://github.com/miriappel/panda-shoe-store.git
 ```
 
 2. Navigate to project directory:
 ```bash
-cd ecommerce-shoe-store
+cd panda-shoe-store
 ```
 
 3. Open `home.html` in browser
